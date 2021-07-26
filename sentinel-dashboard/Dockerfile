@@ -7,7 +7,7 @@ MAINTAINER xck (xiaochangkun@126.com)
 ENV TZ=Asia/Shanghai \
     USERNAME=sentinel \
     PASSWORD=sentinel \
-    NACOS_ADDRESS = localhost:8848 \
+    NACOS_ADDRESS=localhost:8848 \
     NACOS_NAMESPACE=""
 
 # 指定容器内的时区
